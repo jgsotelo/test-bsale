@@ -2,7 +2,7 @@
 
 ## **Información técnica y funcional**
 
-### Este api rest tiene el alcance de mostrar información sobre categorías y productos, en el cual contempla 2 funcionalidades:
+### El api rest tiene el alcance de mostrar información sobre categorías y productos, en el cual contempla 2 funcionalidades:
 - Listado de categorias
 - Listado de productos por categoria
 
