@@ -13,7 +13,7 @@
 - R2DBC
 - Maria DB
 - Lombok
-# #
+
 ## **Documentacion de Api**
 
 ### GET Lista de categorias
