@@ -18,8 +18,13 @@
 
 ### GET Lista de categorias
 - GET /categories/ - retornara todos las categorias.
+
+#### Headers:
+- Content-Type: application/json
+
 #### Parámetros:
 - Sin parametros
+
 #### Response:
 ```
 [
@@ -38,6 +43,10 @@
 
 ### GET Lista de productos por categoria
 - GET /products/category/{idCategoria} - retornara todos los productos por categoria.
+
+#### Headers:
+- Content-Type: application/json
+
 #### Parámetros:
 - idCategoria, permite filtrar por categoria
 
